@@ -144,6 +144,7 @@
         </componentInstances>
         <componentInstances>
             <componentInstanceProperties>
+<<<<<<< HEAD
                 <name>latField</name>
                 <value>Location__Latitude__s</value>
             </componentInstanceProperties>
@@ -156,6 +157,12 @@
                 <value>Name</value>
             </componentInstanceProperties>
             <componentName>RecordMap</componentName>
+=======
+                <name>animations</name>
+                <value>true</value>
+            </componentInstanceProperties>
+            <componentName>PictureGalleryCard</componentName>
+>>>>>>> origin/feature-maria-gallery
         </componentInstances>
         <mode>Replace</mode>
         <name>sidebar</name>
